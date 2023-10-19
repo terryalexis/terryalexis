@@ -20,6 +20,30 @@ I'm a full stack software developer and recent USU graduate.  I have experience 
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
 ### Projects
+<details>
+<summary>🧭 Geocaching App</summary>
+  Software Used:
+<ul>
+  <li>Java</li>
+  <li>XML</li>
+  <li>Android Studio</li>
+</ul>
+</details>
+
+<details>
+<summary>🛬 Automatic Droid Landing</summary>
+PROJECT INFO HERE
+</details>
+
+<details>
+<summary>🧩 Sudoku Solver</summary>
+PROJECT INFO HERE
+</details>
+
+<details>
+<summary>🖥️ Machine Learning</summary>
+PROJECT INFO HERE
+</details>
 
 
 ### Connect
