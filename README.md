@@ -19,31 +19,13 @@ I'm a full stack software developer and recent USU graduate.  I have experience 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
-### Projects
-<details>
-<summary>🧭 Geocaching App</summary>
-  Software Used:
+### Past Projects
 <ul>
-  <li>Java</li>
-  <li>XML</li>
-  <li>Android Studio</li>
+  <li><a href="https://github.com/terryalexis/Geocaching_App">🧭 Geocaching App</a></li>
+  <li><a href="https://github.com/terryalexis/Robotics_Final_Project">🛬 Automated Droid Landing</a></li>
+  <li><a href="https://github.com/terryalexis/Sudoku_Solver">🧩 Sudoku Solver</a></li>
+  <li><a href="https://github.com/terryalexis/Machine_Learning">🖥️ Machine Learning</a></li>
 </ul>
-</details>
-
-<details>
-<summary>🛬 Automatic Droid Landing</summary>
-PROJECT INFO HERE
-</details>
-
-<details>
-<summary>🧩 Sudoku Solver</summary>
-PROJECT INFO HERE
-</details>
-
-<details>
-<summary>🖥️ Machine Learning</summary>
-PROJECT INFO HERE
-</details>
 
 
 ### Connect
