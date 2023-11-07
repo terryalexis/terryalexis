@@ -23,7 +23,7 @@ I'm a full stack software developer and recent USU graduate.  I have experience 
 <ul>
   <li><a href="https://github.com/terryalexis/Geocaching_App">🧭 Geocaching App</a></li>
   <li><a href="https://github.com/terryalexis/Robotics_Final_Project">🛬 Automated Drone Landing</a></li>
-  <li><a href="https://github.com/terryalexis/Sudoku_Solver">🧩 Sudoku Solver</a></li>
+  <li><a href="https://github.com/terryalexis/SudokuSolver">🧩 Sudoku Solver</a></li>
   <li><a href="https://github.com/terryalexis/ELL_Machine_Learning">🖥️ Machine Learning</a></li>
 </ul>
 
